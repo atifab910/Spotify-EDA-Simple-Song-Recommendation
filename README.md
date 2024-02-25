@@ -1,4 +1,4 @@
-# Data-Science-Project
+#Spotify EDA and simple song recommendation
 In this project, we will delve into the vast realm of Spotify's music data, employing Exploratory Data Analysis (EDA) techniques to unravel insights and trends. Our primary objective is to gain a comprehensive understanding of the diverse musical landscape available on Spotify.
 
 Exploratory Data Analysis (EDA) Phase:
