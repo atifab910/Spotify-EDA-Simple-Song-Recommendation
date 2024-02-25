@@ -15,4 +15,4 @@ Building upon the EDA, we will implement a straightforward song recommendation s
 𝗖𝗼𝗻𝘁𝗲𝗻𝘁-𝗕𝗮𝘀𝗲𝗱 𝗙𝗶𝗹𝘁𝗲𝗿𝗶𝗻𝗴:
 𝗜𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲:
 
-By the conclusion of this project, we aim to provide both insightful exploratory analysis of Spotify's music landscape and a functional song recommendation system, showcasing the potential for leveraging data to enhance the music discovery experience for users.
+By the conclusion of this project, we aim to provide both an insightful exploratory analysis of Spotify's music landscape and a functional song recommendation system, showcasing the potential for leveraging data to enhance the music discovery experience for users.
